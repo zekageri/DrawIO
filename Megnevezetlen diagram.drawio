@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T09:51:54.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A8pgpgZ1m2-k54ej8rKR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T10:03:41.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vGYf7UxL1OCSmCXkWvim" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2261" dy="1947" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="2366" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -245,22 +245,16 @@
         <mxCell id="BwI_lQwCWqoM442kbqM4-177" value="Nem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-550" y="180" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BwI_lQwCWqoM442kbqM4-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-178">
+        <mxCell id="BwI_lQwCWqoM442kbqM4-325" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-178" target="BwI_lQwCWqoM442kbqM4-324">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-460" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-395" y="20" />
-            </Array>
+            <mxPoint x="-10" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BwI_lQwCWqoM442kbqM4-325" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-178" target="BwI_lQwCWqoM442kbqM4-324">
+        <mxCell id="BwI_lQwCWqoM442kbqM4-352" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-178" target="BwI_lQwCWqoM442kbqM4-351">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-178" value="Radiátor&lt;br&gt;hőmérséklet ok?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-440" y="100" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BwI_lQwCWqoM442kbqM4-190" value="Igen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-447" y="70" width="45" height="30" as="geometry" />
+          <mxGeometry x="-325" y="100" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-195" target="BwI_lQwCWqoM442kbqM4-81">
           <mxGeometry relative="1" as="geometry">
@@ -563,10 +557,10 @@
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-327" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-324">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-295" y="140" as="targetPoint" />
+            <mxPoint x="45" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-217" y="10" />
-              <mxPoint x="-295" y="10" />
+              <mxPoint x="123" y="10" />
+              <mxPoint x="45" y="10" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -574,69 +568,177 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-324" value="Kazán engedélyezve van?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-265" y="95" width="95" height="90" as="geometry" />
+          <mxGeometry x="75" y="95" width="95" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-328" value="Nem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-277" y="70" width="45" height="30" as="geometry" />
+          <mxGeometry x="63" y="70" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-332" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-329" target="BwI_lQwCWqoM442kbqM4-331">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-345" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-329" target="BwI_lQwCWqoM442kbqM4-335">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-65" y="795" as="targetPoint" />
+            <mxPoint x="275" y="795" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-64" y="290" />
-              <mxPoint x="-64" y="795" />
+              <mxPoint x="276" y="290" />
+              <mxPoint x="276" y="795" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-329" value="Van radiátor szelep?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-268.75" y="240" width="102.5" height="100" as="geometry" />
+          <mxGeometry x="71.25" y="240" width="102.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-334" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-331" target="BwI_lQwCWqoM442kbqM4-333">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-331" value="Radiátor szelepek nyitása" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-277" y="405" width="120" height="60" as="geometry" />
+          <mxGeometry x="63" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-336" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-333" target="BwI_lQwCWqoM442kbqM4-335">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-333">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-217" y="535" as="targetPoint" />
+            <mxPoint x="123" y="535" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-344" y="623" />
+              <mxPoint x="-4" y="623" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-333" value="Radiátor szelepek kinyitottak?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-266.25" y="570" width="97.5" height="105" as="geometry" />
+          <mxGeometry x="73.75" y="570" width="97.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-348" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-335" target="BwI_lQwCWqoM442kbqM4-347">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-335" value="Kazán indítása" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-277.5" y="765" width="120" height="60" as="geometry" />
+          <mxGeometry x="62.5" y="765" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-337" value="Igen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-207.5" y="190" width="50" height="30" as="geometry" />
+          <mxGeometry x="132.5" y="190" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-338" value="Igen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="360" width="50" height="30" as="geometry" />
+          <mxGeometry x="120" y="360" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-339" value="Igen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-211" y="700" width="50" height="30" as="geometry" />
+          <mxGeometry x="129" y="700" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-343" value="Nem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-311.25" y="590" width="45" height="30" as="geometry" />
+          <mxGeometry x="28.75" y="590" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BwI_lQwCWqoM442kbqM4-346" value="Nem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-161" y="295" width="45" height="30" as="geometry" />
+          <mxGeometry x="179" y="295" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BwI_lQwCWqoM442kbqM4-347" value="Kazán szivattyúk indítása" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-277.5" y="905" width="120" height="60" as="geometry" />
+        <mxCell id="BwI_lQwCWqoM442kbqM4-350" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-347" target="BwI_lQwCWqoM442kbqM4-178">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="-20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="935" />
+              <mxPoint x="345" y="-10" />
+              <mxPoint x="-280" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-347" value="Radiátor szivattyúk indítása" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="62.5" y="905" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-354" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-415" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-381" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-351" target="BwI_lQwCWqoM442kbqM4-360">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-351" value="Radiátor fűtés ment előtte?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-333.5" y="260" width="105" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-355" value="Nem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-395" y="275" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-384" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-360" target="BwI_lQwCWqoM442kbqM4-362">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-360" value="Kazán leállítása" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-341" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-365" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-362" target="BwI_lQwCWqoM442kbqM4-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-378" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-362" target="BwI_lQwCWqoM442kbqM4-377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-362" value="Utókeringetés engedélyezve van?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-351" y="511.25" width="140" height="128.75" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-367" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-364" target="BwI_lQwCWqoM442kbqM4-366">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-364" value="Utókeringetés indítása" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-341" y="694.995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-389" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-366">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-275" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="885" />
+              <mxPoint x="-170" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-392" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-366" target="BwI_lQwCWqoM442kbqM4-391">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-366" value="Utókeringetés vége?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-338.5" y="835" width="115" height="100.01" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-374" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-371">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-371" value="Radiátor szelepek elzárása" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-341" y="1159.9950000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-380" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-377">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="965" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-377" value="Radiátor szivattyúk leállítása" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-145" y="694.995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-385" value="Nem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-211" y="580" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-386" value="Igen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-333.5" y="640" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-387" value="Igen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-338.5" y="930" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-390" value="Nem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-228.5" y="850" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-393" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-391" target="BwI_lQwCWqoM442kbqM4-371">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-395" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwI_lQwCWqoM442kbqM4-391">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-86" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-391" value="Van radiátor szelep?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-338.5" y="1015.0100000000001" width="115" height="100.01" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-396" value="Igen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-341" y="1125" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwI_lQwCWqoM442kbqM4-397" value="Nem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-221" y="1030" width="45" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
